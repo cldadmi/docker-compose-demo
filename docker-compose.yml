@@ -5,7 +5,7 @@ web:
   links:
    - redis
   expose:
-   - "5000"
+   - "54000"
 redis:
   image: redis
 lb:
